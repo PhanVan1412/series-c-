@@ -1,0 +1,14 @@
+D:\2024\Tampv\LearnMWG\C#\3\obj\Debug\net8.0\3.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\Tampv\LearnMWG\C#\3\obj\Debug\net8.0\3.AssemblyInfoInputs.cache
+D:\2024\Tampv\LearnMWG\C#\3\obj\Debug\net8.0\3.AssemblyInfo.cs
+D:\2024\Tampv\LearnMWG\C#\3\obj\Debug\net8.0\3.csproj.CoreCompileInputs.cache
+D:\2024\Tampv\LearnMWG\C#\3\bin\Debug\net8.0\3.exe
+D:\2024\Tampv\LearnMWG\C#\3\bin\Debug\net8.0\3.deps.json
+D:\2024\Tampv\LearnMWG\C#\3\bin\Debug\net8.0\3.runtimeconfig.json
+D:\2024\Tampv\LearnMWG\C#\3\bin\Debug\net8.0\3.dll
+D:\2024\Tampv\LearnMWG\C#\3\bin\Debug\net8.0\3.pdb
+D:\2024\Tampv\LearnMWG\C#\3\obj\Debug\net8.0\3.dll
+D:\2024\Tampv\LearnMWG\C#\3\obj\Debug\net8.0\refint\3.dll
+D:\2024\Tampv\LearnMWG\C#\3\obj\Debug\net8.0\3.pdb
+D:\2024\Tampv\LearnMWG\C#\3\obj\Debug\net8.0\3.genruntimeconfig.cache
+D:\2024\Tampv\LearnMWG\C#\3\obj\Debug\net8.0\ref\3.dll

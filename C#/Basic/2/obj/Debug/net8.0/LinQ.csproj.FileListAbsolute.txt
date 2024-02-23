@@ -1,0 +1,14 @@
+D:\2024\Tampv\LearnMWG\C#\LinQ\bin\Debug\net8.0\LinQ.exe
+D:\2024\Tampv\LearnMWG\C#\LinQ\bin\Debug\net8.0\LinQ.deps.json
+D:\2024\Tampv\LearnMWG\C#\LinQ\bin\Debug\net8.0\LinQ.runtimeconfig.json
+D:\2024\Tampv\LearnMWG\C#\LinQ\bin\Debug\net8.0\LinQ.dll
+D:\2024\Tampv\LearnMWG\C#\LinQ\bin\Debug\net8.0\LinQ.pdb
+D:\2024\Tampv\LearnMWG\C#\LinQ\obj\Debug\net8.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\Tampv\LearnMWG\C#\LinQ\obj\Debug\net8.0\LinQ.AssemblyInfoInputs.cache
+D:\2024\Tampv\LearnMWG\C#\LinQ\obj\Debug\net8.0\LinQ.AssemblyInfo.cs
+D:\2024\Tampv\LearnMWG\C#\LinQ\obj\Debug\net8.0\LinQ.csproj.CoreCompileInputs.cache
+D:\2024\Tampv\LearnMWG\C#\LinQ\obj\Debug\net8.0\LinQ.dll
+D:\2024\Tampv\LearnMWG\C#\LinQ\obj\Debug\net8.0\refint\LinQ.dll
+D:\2024\Tampv\LearnMWG\C#\LinQ\obj\Debug\net8.0\LinQ.pdb
+D:\2024\Tampv\LearnMWG\C#\LinQ\obj\Debug\net8.0\LinQ.genruntimeconfig.cache
+D:\2024\Tampv\LearnMWG\C#\LinQ\obj\Debug\net8.0\ref\LinQ.dll
